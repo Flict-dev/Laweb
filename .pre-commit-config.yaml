@@ -10,4 +10,4 @@ repos:
     hooks:
       - id: mypy
         args: [--no-strict-optional, --ignore-missing-imports]
-        files: ^(realweb/|tests/)
+        files: ^(laweb/|tests/)
