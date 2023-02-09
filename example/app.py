@@ -1,6 +1,5 @@
-from test import test
-
 from flask import Flask
+from routes import test
 
 from laweb import logger
 
